@@ -1,13 +1,13 @@
 ### 👋 Hi there, this is Yihang Qiu (邱一航) 
 
-## 🔭 Model Card / Introduction
+## Model Card / Introduction
 
 I am now a 1st-year Ph.D. student at [the University of Hong Kong](https://www.cds.hku.hk/), supervised by Prof. [Ping Luo](https://luoping.me/) at [HKU-MMLAB](https://mmlab.hk/). Before joining HKU, I received my Bachelor's degree at Shanghai Jiao Tong University in 2024.
 
 My current research interest lies in 
 autonomous driving, computer vision, and robotics, especially scalable foundation models and world models for embodied AI.
 
-## 🌱 Selected Milestones / Selected Publications
+## Selected Milestones / Selected Publications
 
 - [MTGS: Multi-Traversal Gaussian Splatting](https://arxiv.org/abs/2503.12552)
   - Tianyu Li*, **Yihang Qiu***, Zhenhua Wu*, Carl Lindström, Peng Su, Matthias Nießner, Hongyang Li
@@ -17,21 +17,28 @@ autonomous driving, computer vision, and robotics, especially scalable foundatio
   - *CVPR*, 2024 <b><font color="red">Highlight</font></b> (Top 2.8%)
 
 
-## 🏆 Badges / Awards and Honors
+## Badges / Awards and Honors
 
+- 2024-2025, HKPFS (Hong Kong PhD Fellowship Scheme)
 - 2021-2022, China National Scholarship (国家奖学金)
 - 2020-2021, China National Scholarship (国家奖学金)
 
-## 🏛️ Training Log and Version History / Education
+## Training Log and Version History / Education
 
 - **Ph.D.** in Computer Science, 2024-2028 _(expected)_
   - School of Computer and Data Science, the University of Hong Kong
 - **B.Eng.** in Artificial Intelligence (AI Honor Class)（人工智能（卓越人才试点班））, 2020-2024
   - School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University
 
-## 🕹️ Deployment and Beta Testing / Internships
+## Deployment and Beta Testing / Internships
 
 - 2023-2025, OpenDriveLab, Shanghai AI Lab
+
+## Contacts
+
+- Email: [qiuyihang@connect.hku.hk](mailto:qiuyihang@connect.hku.hk)
+- Personal Email: [qiuyihang.2002@gmail.com](mailto:qiuyihang.2002@gmail.com)
+- Wechat: [GihhArwtw](https://github.com/GihhArwtw/GihhArwtw/Wechat.jpg)
 
 
 <!--
