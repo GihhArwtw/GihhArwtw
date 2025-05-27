@@ -20,6 +20,7 @@ autonomous driving, computer vision, and robotics, especially scalable foundatio
 ## Badges / Awards and Honors
 
 - 2024-2025, HKPFS (Hong Kong PhD Fellowship Scheme)
+- 2024-2025, HKUPS (HKU Presidential PhD Scholar Programme)
 - 2021-2022, China National Scholarship (国家奖学金)
 - 2020-2021, China National Scholarship (国家奖学金)
 
