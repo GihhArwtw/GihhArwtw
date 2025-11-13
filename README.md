@@ -2,7 +2,7 @@
 
 ## Model Card / Introduction
 
-I am now a 1st-year Ph.D. student at [the University of Hong Kong](https://www.cds.hku.hk/), supervised by Prof. [Ping Luo](https://luoping.me/) at [HKU-MMLAB](https://mmlab.hk/). Before joining HKU, I received my Bachelor's degree at Shanghai Jiao Tong University in 2024.
+I am now a 2nd-year Ph.D. student at [the University of Hong Kong](https://www.cds.hku.hk/), supervised by Prof. [Ping Luo](https://luoping.me/) at [HKU-MMLAB](https://mmlab.hk/). Before joining HKU, I received my Bachelor's degree at Shanghai Jiao Tong University in 2024.
 
 My current research interest lies in 
 autonomous driving, computer vision, and robotics, especially scalable foundation models and world models for embodied AI.
