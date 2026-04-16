@@ -1,6 +1,6 @@
 ### 👋 Hi there, this is Yihang Qiu (邱一航) 
 
-[Email](mailto:qiuyihang@connect.hku.hk) | [Google Scholar](https://scholar.google.com/citations?user=qgRUOdIAAAAJ&hl=zh-CN) | [Personal Email](mailto:qiuyihang.2002@gmail.com) | [Wechat](https://github.com/GihhArwtw/GihhArwtw/blob/main/Wechat.jpg) | [Twitter](https://x.com/qiu_yihang_)
+[Email](mailto:qiuyihang@connect.hku.hk) | [Google Scholar](https://scholar.google.com/citations?user=qgRUOdIAAAAJ&hl=zh-CN) | [Personal Email](mailto:qiuyihang.2002@gmail.com) | [Twitter](https://x.com/qiu_yihang_)
 
 
 ## Model Card / Introduction
