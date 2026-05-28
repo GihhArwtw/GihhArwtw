@@ -63,7 +63,7 @@ autonomous driving, computer vision, and robotics, especially scalable foundatio
 
 ## Deployment and Beta Testing / Internships
 
-- 2025-2026, Xiaomi EV
+- 2025-2026, Xiaomi Embodied
 - 2023-2025, OpenDriveLab, Shanghai AI Lab
 
 
